@@ -1,4 +1,4 @@
-# Book Purchasing Application
+# Online BookStore Application
 
 ## Overview
 The Book Purchasing Application is a web-based platform designed for users to browse, search, and purchase books easily. This application provides a seamless shopping experience with essential features like user authentication and shopping cart management.
